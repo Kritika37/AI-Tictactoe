@@ -1,7 +1,7 @@
 # AI-tictactoe
 Unbeatable AI tictactoe game using javascript and MINMAX Algorithm
 
-For playing the game just clone/download the files and run the HTML file on your laptop
+For playing the game just clone/download the files and run the HTML file on your laptop. 
 You may visit my blog for full understnading of the code and the concept
 https://kritikas.home.blog/2020/03/20/ai-tictactoe-bot/  :)
 
